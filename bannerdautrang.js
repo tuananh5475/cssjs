@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/BbZDbm' target='_blank'><img src='https://lh3.googleusercontent.com/--G8DLNi0J8I/WKRBeLjzFOI/AAAAAAAACD4/rVSQaL_tNhckAvCJWqzmVj_hXGXzv5X9ACL0B/w530-d-h375-p-rw/2-3.jpg' width='500px'/><br/>Đặt chỗ Lux Garden ngay</a>. Giảm ngay 40 triệu. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/fe3nmn' target='_blank'><img src='http://khaihoanskysymphony.com/wp-content/uploads/2017/03/tong-quan-du-an-can-ho-sky-symphony-khai-hoan-land-1024x495.jpg' width='500px'/><br/>Đặt chỗ Sky Symphony hôm nay</a>. Nhận ngay ưu đãi. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
