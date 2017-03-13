@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://bit.ly/2lONFim';
+	var url_popup = 'http://bit.ly/2nk9OWp';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
